@@ -1,2 +1,6 @@
 # documentation
-documentation
+
+
+# Guidelines
+
+[Resources]
